@@ -1,0 +1,3 @@
+expo install react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-screens @react-native-community/masked-view react-native-keyboard-aware-scroll-view expo-image-picker firebase @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs
+npm i prop-types styled-components moment
+npm i react-native-gifted-chat --save
